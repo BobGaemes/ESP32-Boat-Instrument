@@ -23,8 +23,8 @@
 
 #define SIGNALK_BASE "http://10.37.88.174:3000/signalk/v1/api/vessels/self"
 
-#define WIFI_SSID "AP"
-#define WIFI_PASS "XVar6FyXDpiGqtDt39Xw"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 
 static bool first_data = true;
 
